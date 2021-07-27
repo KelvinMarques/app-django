@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+pytest-django = "*"
+pytest-cov = "*"
+pytest = "*"
+psycopg2 = "*"
+pillow = "*"
+ipython = "*"
+factory-boy = "*"
+django-autoslug = "*"
+django-debug-toolbar = "*"
+django-model-utils = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
