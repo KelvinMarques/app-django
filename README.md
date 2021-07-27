@@ -1,2 +1,4 @@
 # app-django
-Aplicativo de votação básico.
+App para obter conhecimento em django
+
+## 
